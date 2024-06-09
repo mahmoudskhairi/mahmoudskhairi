@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+[![mskhairi's 42 stats](https://badge.mediaplus.ma/black/mskhairi)](https://github.com/oakoudad/badge42)
 <!--
 **mahmoudskhairi/mahmoudskhairi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
